@@ -1,3 +1,5 @@
+[← Voltar ao índice](../../../index.md)
+
 # Fase 0 — M0: Security Lab Bootstrap
 
 ## Sessão 04 — Windows, validação do laboratório e Competency Gate
@@ -711,3 +713,5 @@ Ao final da sessão, o Security Lab possui:
 O **Competency Gate do M0 foi concluído com sucesso**.
 
 **Status: M0 — Security Lab Bootstrap concluído.**
+
+[← Voltar ao índice](../../../index.md)

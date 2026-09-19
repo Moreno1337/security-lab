@@ -1,3 +1,5 @@
+[← Voltar ao índice](../../../index.md)
+
 # Fase 0 — M0: Security Lab Bootstrap
 
 ## Sessão 02 — Pós-instalação da Kali e configuração da rede do laboratório
@@ -975,3 +977,5 @@ Ubuntu seclab   → 192.168.50.20/24
 ```
 
 Com Kali e Ubuntu conectadas à `seclab`, será possível realizar o primeiro teste real de comunicação **VM ↔ VM** do laboratório e posteriormente avançar para SSH, serviços HTTP e descoberta de portas.
+
+[← Voltar ao índice](../../../index.md)

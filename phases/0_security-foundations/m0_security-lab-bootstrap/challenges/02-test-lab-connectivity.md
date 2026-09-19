@@ -1,3 +1,5 @@
+[← Voltar ao índice](../../../../index.md)
+
 # Challenge 02 — Test Lab Connectivity
 
 ## Objetivo
@@ -56,3 +58,5 @@ A comunicação entre as três máquinas da `seclab` foi comprovada.
 O experimento também demonstrou que uma falha de `ping` não prova, isoladamente, ausência de conectividade de rede. Firewalls e outras políticas podem permitir determinado tráfego em uma direção e bloqueá-lo na direção oposta.
 
 A alteração controlada de uma única regra do firewall forneceu evidência de que o bloqueio de ICMP inbound no Windows era responsável pelo comportamento observado.
+
+[← Voltar ao índice](../../../../index.md)

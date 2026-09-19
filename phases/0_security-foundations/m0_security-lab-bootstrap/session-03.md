@@ -1,3 +1,5 @@
+[← Voltar ao índice](../../../index.md)
+
 # Fase 0 — M0: Security Lab Bootstrap
 
 ## Sessão 03 — Pós-instalação da Kali e configuração da rede do laboratório
@@ -667,3 +669,5 @@ seclab
 O próximo passo será criar a **Ubuntu Server VM**, conectá-la simultaneamente ao NAT e à `seclab` e configurá-la como `192.168.50.20/24`.
 
 Com isso, será possível realizar o primeiro teste de comunicação **Kali ↔ Ubuntu** dentro da rede privada do Security Lab.
+
+[← Voltar ao índice](../../../index.md)

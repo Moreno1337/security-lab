@@ -1,3 +1,5 @@
+[← Voltar ao índice](../../../../index.md)
+
 # Challenge 01 — Discover Machine IPs
 
 ## Objetivo
@@ -37,3 +39,5 @@ A rede privada utilizada pelo laboratório é:
 Foi possível identificar corretamente os endereços das três máquinas e distinguir as interfaces utilizadas para Internet das interfaces pertencentes à rede privada do laboratório.
 
 Também foi observado que as três VMs podem possuir simultaneamente o endereço `10.0.2.15` em suas interfaces NAT sem conflito, pois o NAT padrão do VirtualBox fornece um contexto NAT separado para cada VM.
+
+[← Voltar ao índice](../../../../index.md)
